@@ -1,2 +1,2 @@
-# WordpressTheme
-Wordpress Theme
+# WordPressTemplateForSchool
+WordPress Template For School
